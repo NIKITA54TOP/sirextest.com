@@ -35,10 +35,12 @@
   </tr>
   <tr>
     <td>
+
 | Lietotājvārds | Parole |
 |---|---|
 | `admin` | `admin123` |
-    </td>
+
+</td>
     <td>
 
    | Lietotājvārds | Parole |
