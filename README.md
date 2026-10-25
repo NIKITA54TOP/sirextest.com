@@ -13,6 +13,7 @@
 ![JUnit](https://img.shields.io/badge/JUnit-4-25A162?style=for-the-badge&logo=junit5&logoColor=25A162&labelColor=161B22)
 
 **2. projekta darbs** · 8. tēma · Daugavpils Tehnoloģiju un tūrisma tehnikums · PR-32 · 2026./2027.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2500&pause=100000&color=E6731E&center=true&vCenter=true&repeat=false&width=760&height=30&lines=2.+projekta+darbs+%C2%B7+8.+t%C4%93ma+%C2%B7+Daugavpils+Tehnolo%C4%A3iju+un+t%C5%ABrisma+tehnikums+%C2%B7+PR-32+%C2%B7+2026.%2F2027." />
 </div>
 
 
