@@ -1,8 +1,9 @@
 # 🏋️ SportaKlubs – sporta kluba klientu sistēma
 
-
 | | |
-| **Izstrādātāji** | Nikita Novikovs: @NIKITA54TOP, Vadims Kožuhovskis: @volconokbeta-cell |
+|---|---|
+| **Izstrādātāji 1#** | Nikita Novikovs: `NIKITA54TOP` |
+| **Izstrādātāji 2#** | Vadims Kožuhovskis: `volconokbeta-cell` |
 | **Mācību iestāde** | Daugavpils Tehnoloģiju un tūrisma tehnikums |
 | **Grupa** | PR-32 |
 | **Mācību gads** | 2026./2027. |
