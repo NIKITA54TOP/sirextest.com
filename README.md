@@ -35,9 +35,9 @@
   </tr>
   <tr>
     <td>
-       | Lietotājvārds | Parole |
-       |---|---|
-       | `admin` | `admin123` |
+| Lietotājvārds | Parole |
+|---|---|
+| `admin` | `admin123` |
     </td>
     <td>
 
