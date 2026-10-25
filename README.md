@@ -6,30 +6,18 @@
 
 <br/>
 
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans_GUI_Builder-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white)
-![Derby](https://img.shields.io/badge/Apache_Derby-D22128?style=flat-square&logo=apache&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=flat-square&logo=databricks&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit_4-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=161B22)
+![NetBeans](https://img.shields.io/badge/NetBeans-GUI_Builder-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=1B6AC6&labelColor=161B22)
+![Derby](https://img.shields.io/badge/Apache_Derby-Embedded-D22128?style=for-the-badge&logo=apache&logoColor=D22128&labelColor=161B22)
+![JDBC](https://img.shields.io/badge/JDBC-SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=4479A1&labelColor=161B22)
+![JUnit](https://img.shields.io/badge/JUnit-4-25A162?style=for-the-badge&logo=junit5&logoColor=25A162&labelColor=161B22)
 
 **2. projekta darbs** · 8. tēma · Daugavpils Tehnoloģiju un tūrisma tehnikums · PR-32 · 2026./2027.
 </div>
 
 <br/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 ### 👥 Autori
 
