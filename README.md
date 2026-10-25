@@ -9,6 +9,7 @@
 ![JDBC](https://img.shields.io/badge/JDBC-SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=4479A1&labelColor=161B22)
 ![JUnit](https://img.shields.io/badge/JUnit-4-25A162?style=for-the-badge&logo=junit5&logoColor=25A162&labelColor=161B22)
 
+
 **2. projekta darbs** · 8. tēma · Daugavpils Tehnoloģiju un tūrisma tehnikums · PR-32 · 2026./2027.
 </div>
 
