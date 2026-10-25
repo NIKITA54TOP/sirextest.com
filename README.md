@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2B2E,100:E6731E&height=170&section=header&text=SportaKlubs&fontColor=ffffff&fontSize=52&fontAlignY=35&desc=Sporta%20kluba%20klientu%20sist%C4%93ma&descSize=18&descAlignY=58" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com font=Fira+Code&size=16&duration=3000&pause=800&color=E6731E&center=true&vCenter=true&width=520&lines=Klienti+%C2%B7+Treneri+%C2%B7+Abonementi;Nodarb%C4%ABbu+grafiks+%C2%B7+Maks%C4%81jumi;Java+Swing+%2B+Apache+Derby" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=E6731E&center=true&vCenter=true&width=520&lines=Klienti+%C2%B7+Treneri+%C2%B7+Abonementi;Nodarb%C4%ABbu+grafiks+%C2%B7+Maks%C4%81jumi;Java+Swing+%2B+Apache+Derby" />
 
 <br/>
 
