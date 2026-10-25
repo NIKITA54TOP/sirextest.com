@@ -35,19 +35,17 @@
   </tr>
   <tr>
     <td>
-
-      | Lietotājvārds | Parole |
-      |---|---|
-      | `admin` | `admin123` |
-
-</td>
+       | Lietotājvārds | Parole |
+       |---|---|
+       | `admin` | `admin123` |
+    </td>
     <td>
 
-| Lietotājvārds | Parole |
-|---|---|
-| `janis` | `janis123` |
-| `anna` | `anna123` |
-| `peteris` | `peteris123` |
+   | Lietotājvārds | Parole |
+   |---|---|
+   | `janis` | `janis123` |
+   | `anna` | `anna123` |
+   | `peteris` | `peteris123` |
 
 </td>
   </tr>
