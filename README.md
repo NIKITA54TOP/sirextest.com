@@ -36,11 +36,9 @@
   <tr>
     <td>
 
-| Lietotājvārds | Parole |
-|---|---|
-| `admin` | `admin123` |
-
-Pilnas tiesības: klienti, treneri,<br>abonementi, grafiks, maksājumi.
+      | Lietotājvārds | Parole |
+      |---|---|
+      | `admin` | `admin123` |
 
 </td>
     <td>
