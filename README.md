@@ -13,9 +13,6 @@
 ![JUnit](https://img.shields.io/badge/JUnit_4-25A162?style=flat-square&logo=junit5&logoColor=white)
 
 **2. projekta darbs** · 8. tēma · Daugavpils Tehnoloģiju un tūrisma tehnikums · PR-32 · 2026./2027.
-
-[🔐 Pieslēgšanās](#-pieslēgšanās) &nbsp;•&nbsp; [🚀 Palaišana](#-ātrā-palaišana) &nbsp;•&nbsp; [👥 Autori](#-autori)
-
 </div>
 
 <br/>
