@@ -1,6 +1,6 @@
 <div align="center">
 
-# SportaKlubs
+# 🏋️ SportaKlubs
 
 **Sporta kluba klientu sistēma**
 
